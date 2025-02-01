@@ -11,11 +11,11 @@ PKitty is an Open-Source Batchfile tool that is used to scan for open ports thro
 # 📜 How to use
 How to use PKitty:
 
-1) - Extract the ZIP File.
+1)   Extract the ZIP File.
 
-2) - Open the file "mainPK.bat"
+2)   Open the file "mainPK.bat"
 
-3) - Enter the IPv4 Address you want to scan for ports (E.G,1.1.1.1)
+3)   Enter the IPv4 Address you want to scan for ports (E.G,1.1.1.1)
    - (If the IP is offline, Scan a different IP)
 
 # ⚠️ Legal Notice!
