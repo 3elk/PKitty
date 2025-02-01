@@ -4,6 +4,8 @@ title PKitty Port Scanner - By elk.
 chcp 65001 >nul
 cls
 curl -s https://pastebin.com./raw/Q9EwedUq -o banner.json
+type banner.json
+del banner.json
 set /p ip="[90mEnter the IP Address to scan -->[0m "
 echo [0m
 if "%ip%"=="" (echo [31mEnter a valid IP[0m 
