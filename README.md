@@ -6,7 +6,7 @@ PKitty is an Open-Source Batchfile tool that is used to scan for open ports thro
 
 # 📸 Screenshots
 ![Image Alt](https://github.com/3elk/PKitty/blob/3edbc761fed7060fd11a80d62bfa1f0af8ccfa85/media/Screenshot%202025-02-01%20123433.png)
-![Image Alt](https://github.com/3elk/PKitty/blob/789fc186203a090aae3fa2c6dae815b1e1c0997c/Screenshot%202025-02-01%20125851.png)
+![Image Alt](https://github.com/3elk/PKitty/blob/bed28790d434a0ce8820d4ffa31d156f8b915570/media/Screenshot%202025-02-01%20125851.png)
 
 # 📜 How to use
 How to use PKitty:
