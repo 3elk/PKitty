@@ -13,11 +13,12 @@ How to use PKitty:
 
 1)   Extract the ZIP File.
 
-2)   Open the file "mainPK.bat"
+2)   Run the file "mainPK.bat"
 
 3)   Enter the IPv4 Address you want to scan for ports (E.G,1.1.1.1)
    - (If the IP is offline, Scan a different IP)
 
+4)   Watch the ports!
 # ⚠️ Legal Notice!
 By using PKitty, you acknowledge that you will:
 
