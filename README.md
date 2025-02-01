@@ -2,7 +2,7 @@
 
 Hello, welcome to PKitty!
 
-PKitty is an Open-Source Batchfile tool that is used to scan for open ports through an IPv4 Address using the tool PortCheck.
+PKitty is a Batchfile tool that is used to scan for open ports through an IPv4 Address using the tool PortCheck.
 
 # 📸 Screenshots
 ![Image Alt](https://github.com/3elk/PKitty/blob/3edbc761fed7060fd11a80d62bfa1f0af8ccfa85/media/Screenshot%202025-02-01%20123433.png)
