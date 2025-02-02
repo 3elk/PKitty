@@ -18,7 +18,8 @@ How to use PKitty:
 3)   Enter the IPv4 Address you want to scan for ports (E.G,1.1.1.1)
    - (If the IP is offline, Scan a different IP)
 
-4)   Watch the ports!
+4)   View the ports!
+
 # ⚠️ Legal Notice!
 By using PKitty, you acknowledge that you will:
 
