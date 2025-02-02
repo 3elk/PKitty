@@ -29,4 +29,4 @@ Use PKitty only for legitimate network exploration and security testing purposes
 
 And not engage in unauthorized access or malicious activities.
 
-PS: I give you complete permission to deobfuscate and change the code of mainPK.bat IF there is a bug, or you could just message me on Discord.
+PS: If there is a bug, tell me! This tool is not perfect, this is my first time obfuscating my script.
