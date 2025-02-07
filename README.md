@@ -31,4 +31,6 @@ And not engage in unauthorized access or malicious activities.
 
 =============================================================
 
-PS: If there is a bug, tell me! This tool is not perfect, this is my first time obfuscating my script. (i give you full permission to de-obfuscate my code)
+PS: If there is a bug, tell me! This tool is not perfect, this is my first time obfuscating my script. 
+
+(i give you full permission to de-obfuscate my code)
